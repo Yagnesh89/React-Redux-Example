@@ -1,2 +1,2 @@
 # React-Redux-Example
-Example of React Redux 
+Example of React Redux  
